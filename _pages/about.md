@@ -16,8 +16,7 @@ culture, the history of literary criticism, and literary informatics.
 
 Currently, I'm working on a project that examines the nineteenth-century
 archival imagination and the relationship between literary form, reading
-practice, and Victorian methods and theories of collecting, preserving,
-and organizing knowledge.
+practice, and Victorian ways of collecting, preserving, and organizing knowledge.
 
 This site houses my ongoing research work and other professional
 material. My [CV]({% include base_path %}/cv/) and [current projects]({% include base_path %}/projects) can be found under
