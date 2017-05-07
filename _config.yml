@@ -57,6 +57,16 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      
 
 # Reading Files
 include:
