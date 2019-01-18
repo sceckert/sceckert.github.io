@@ -18,6 +18,6 @@ Milan Terlunen (Columbia University).
 ## Victorian Metadata: Reading the Review Column, 1866-1900 ##
 This project examines the literary history of information search and retrieval by using computer-assisted methods to analyze the subject headings of nineteenth-century literary review columns.
 
-##[The Shape of Time](https://xpmethod.plaintext.in/lit-mod-viz/shape-of-time.html) ##
+## [The Shape of Time](https://xpmethod.plaintext.in/lit-mod-viz/shape-of-time.html) ##
 
 A study that examines temporal language in fiction by using machine learning to trace word clustering patterns in a corpus of 200 canonical nineteenth-century novels. In collaboration with Allison Chaney (Princeton University).
