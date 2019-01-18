@@ -8,22 +8,13 @@ permalink: /projects/
 ---
 {% include base_path %}
 
-## [The Indexical Imagination: Documentary Aesthetics and the Literary History of Information Culture]({% include base_path %}/thesis/about.html)
+##[*Middlemarch* Critical Histories Project](https://github.com/lit-mod-viz/middlemarch-critical-histories)
 
-My digital senior honors thesis examines literary information
-devices––indexes, tables of contents, footnotes, appendixes, etc––and
-their role in the social and literary production of knowledge.
+A study of literary critical quotations in thousands of articles, detected by using analgorithm on a corpus of JSTOR-held articles (published 1950-2015) on George Eliot’sMiddlemarch (1872). Co-authored with Jonathan Reeve (Columbia University) andMilan Terlunen (Columbia University).
 
-## [The Early Novels Database](http://earlynovels.org)
+## Victorian Metadata: Reading the Review Column, 1866-1900 ##
+This project examines the literary history of information search and retrieval by using computer-assisted methods to analyze the subject headings of nineteenth-century literary review columns.
 
-I designed the web interface for a bibliographic database of slow
-metadata on eighteenth century novels designed to re-imagine the role of
-the bibliographic database as a site for creative exploration and
-information dissemation.
+##[The Shape of Time](https://xpmethod.plaintext.in/lit-mod-viz/shape-of-time.html)
 
-## [Researching Benjamin Researching: *The Arcades Project* Through the Eyes of a Digital Flâneur](http://researchingbenjamin.wordpress.com)
-
-Using the form of a digital "assemblage" I created a web-essay that
-highlights the relationship between the form and content of the research
-practices of German philosopher Walter Benjamin in his massive,
-unfinished experiment in historiography, *The Arcades Project*.
+A study that examines temporal language in fiction by using machine learning to trace word clustering patterns in a corpus of 200 canonical nineteenth-century novels.
