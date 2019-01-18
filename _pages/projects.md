@@ -20,4 +20,4 @@ This project examines the literary history of information search and retrieval b
 
 ##[The Shape of Time](https://xpmethod.plaintext.in/lit-mod-viz/shape-of-time.html) ##
 
-A study that examines temporal language in fiction by using machine learning to trace word clustering patterns in a corpus of 200 canonical nineteenth-century novels.
+A study that examines temporal language in fiction by using machine learning to trace word clustering patterns in a corpus of 200 canonical nineteenth-century novels. In collaboration with Allison Chaney (Princeton University).
