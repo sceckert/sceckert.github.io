@@ -20,7 +20,7 @@ teaser                   : # filename of teaser fallback teaser image placed in 
 # Site Author
 author:
   name             : "Sierra Eckert"
-  avatar           : "bio-photo.jpg"
+  avatar           : "bio-photo-square.jpg"
   bio              : "PhD Candidate, Columbia University Department of English & Comparative Literature."
   location         : "New York, NY"
   email            : sierra.c.eckert@gmail.com
