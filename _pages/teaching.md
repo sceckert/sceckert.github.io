@@ -10,4 +10,4 @@ permalink: /teaching/
 
 ## Introduction to Digital Humanities: Spring 2021
 
-Course syllabus coming soon!
+Course syllabus: [https://sceckert.github.io/IntroDHSpring2021/](https://sceckert.github.io/IntroDHSpring2021/)
