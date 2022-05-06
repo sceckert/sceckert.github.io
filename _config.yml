@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Sierra Eckert"
 title_separator          : "-"
 name                     : "Sierra Eckert"
-description              : 
+description              :
 url                      : "https://sceckert.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -20,7 +20,7 @@ teaser                   : # filename of teaser fallback teaser image placed in 
 # Site Author
 author:
   name             : "Sierra Eckert"
-  avatar           : "bio-photo-square.jpg"
+  avatar           : "bio-photo.jpg"
   bio              : "Postdoctoral Research Associate and Perkins Fellow, Center for Digital Humanities, Princeton University."
   location         : "New York, NY"
   email            : sierra.c.eckert@gmail.com
@@ -57,7 +57,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
+
 defaults:
   # _posts
   - scope:
@@ -66,7 +66,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
+
 
 # Reading Files
 include:
