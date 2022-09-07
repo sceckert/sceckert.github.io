@@ -9,4 +9,4 @@ permalink:  /cv/
 {% include base_path %}
 
 For the most updated PDF of my curriculum vitae, click
-[here]({% include base_path %}/images/Eckert-CV-2021.pdf).
+[here]({% include base_path %}/images/Eckert-CV-2022.pdf).
