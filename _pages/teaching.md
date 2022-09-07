@@ -9,7 +9,7 @@ permalink: /teaching/
 
 
 ## Introduction to Digital Humanities: Fall 2022
-HUM 346 / ENG 256
+HUM 346 / ENG 256  
 Course syllabus: [https://sceckert.github.io/IntroDHFall2022/](https://sceckert.github.io/IntroDHFall2022/)
 
 ## Introduction to Digital Humanities: Spring 2021
