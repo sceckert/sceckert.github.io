@@ -13,4 +13,4 @@ Before joining the Faculty at Wesleyan, I was a Postdoctoral Associate and Perki
 
 Currently, I am working on a book project about the process of information storage, organization, and retrieval that shaped the narrative techniques of British novel in the age of statistics and state archives. I'm also at work on second project: an experiment in quantitative methods and disciplinary history.
 
-This site houses work related to my research, teaching, and other professional material. My [CV]({% include base_path %}/cv/), [current projects]({% include base_path %}/projects), and select [teaching]({% include base_path %}/teaching/ can be found under their respective tabs.
+This site houses work related to my research, teaching, and other professional material. My [CV]({% include base_path %}/cv/), [current projects]({% include base_path %}/projects), and select [teaching]({% include base_path %}/teaching/) can be found under their respective tabs.

@@ -7,16 +7,10 @@ sitemap: false
 permalink: /
 ---
 
-I'm Sierra Eckert, a PhD candidate in Columbia University's Department
-of English and Comparative Literature. I study and teach
-nineteenth-century literature and the history and theory of data. My
-research, broadly speaking, includes Victorian literature and print
-culture, the history of literary criticism, and literary informatics.
+I am an assistant professor in the Department of English at Wesleyan University. I study and teach the intersection of literary form, systems of information, and labor, from the nineteenth century to the present. My research, broadly speaking, takes a historical approach to critical data studies, cultural analytics, and the history of the novel in English. My work has appeared or is forthcoming in *Victorian Studies* and *Studies in the Novel*.
 
-Currently, I'm working on a project that examines the nineteenth-century
-archival imagination and the relationship between literary form, reading
-practice, and Victorian methods and theories of collecting, preserving,
-and organizing knowledge.
+Before joining the Faculty at Wesleyan, I was a Postdoctoral Associate and Perkins Fellow at the Center for Digital Humanities at Princeton University. I received my PhD in English and Comparative Literature from Columbia University.
 
-This site houses my ongoing research work and other professional
-material. My (CV)[{{ site.url }}/cv/] and [current projects]({{ site.url }}/support/projects/) can be found under their respective tabs.
+Currently, I am working on a book project about the process of information storage, organization, and retrieval that shaped the narrative techniques of British novel in the age of statistics and state archives. I'm also at work on second project: an experiment in quantitative methods and disciplinary history.
+
+This site houses work related to my research, teaching, and other professional material. My [CV]({% include base_path %}/cv/), [current projects]({% include base_path %}/projects), and select [teaching]({% include base_path %}/teaching/) can be found under their respective tabs.
